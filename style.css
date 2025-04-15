@@ -1,0 +1,29 @@
+.titlebg{
+    background-color:#ff921c
+}
+H1{
+    font-family: "Sacramento", cursive;
+    color:#f2f0ea
+}
+P{
+    font-family: sans-serif;
+    color: #1b1f3b;
+}
+.imgt{
+    height: 180px;
+    width: 150px;
+    border-radius: 50%;
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    color: #1b1f3b;
+    
+
+}
+.cat{
+    height: 200px;
+    width: 200px;
+}
+.foot{
+    background-color: #e3f2fd;
+}
